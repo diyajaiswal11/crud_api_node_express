@@ -1,0 +1,27 @@
+{
+  "name": "crud_api_node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diyajaiswal11/crud_api_node_express.git"
+  },
+  "author": "Diya Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diyajaiswal11/crud_api_node_express/issues"
+  },
+  "homepage": "https://github.com/diyajaiswal11/crud_api_node_express#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "mongoose": "^6.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
